@@ -1,2 +1,2 @@
 # rails-deploy
-test
+test2
