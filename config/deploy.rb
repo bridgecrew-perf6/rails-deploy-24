@@ -2,7 +2,7 @@
 lock "~> 3.16.0"
 
 set :application, "rails-deploy"
-set :repo_url, "git@github.com:あなたのGitHubアカウント名/rails-deploy.git"
+set :repo_url, "git@github.com:kei-600th/rails-deploy.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
